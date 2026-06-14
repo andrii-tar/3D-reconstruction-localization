@@ -1,0 +1,13 @@
+/.idea
+/venv
+/colmap_projects
+/run_exp
+/view_or
+*.png
+*.jpg
+*.csv
+*.txt
+/fast-loc/dataset
+fast-loc/Room_125
+fast-loc/Room_125.zip
+/fast-loc/
